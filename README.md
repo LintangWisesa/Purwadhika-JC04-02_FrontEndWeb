@@ -28,3 +28,4 @@ No.|Modul|Unduh
 - Deploy to Netlify
 - Deploy to Firebase Hosting
 - React & Firebase Database
+- React & Firebase Storage
