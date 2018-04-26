@@ -29,3 +29,5 @@ No.|Modul|Unduh
 - Deploy to Firebase Hosting
 - React & Firebase Database
 - React & Firebase Storage
+- React & Firebase Authentication
+- React Reveal
